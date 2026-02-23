@@ -1,8 +1,32 @@
-# Hello World!
+<!-- ────────────────────────────────────────────────────────────────────── -->
+<!--                    TUANTHONG VAIDYANOND                               -->
+<!--                    Full-Stack Developer                              -->
+<!-- ────────────────────────────────────────────────────────────────────── -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-TVATDCI-%23d83b7d?style=for-the-badge&logo=github&logoColor=red)](https://github.com/TVATDCI)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║     TUANTHONG VAIDYANOND                                        ║
+║     Full-Stack Developer                                        ║
+║     Nürnberg, Germany                                           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+[![Status](https://img.shields.io/badge/Status-Open_to_Work-238636?style=flat-square)]()
+[![Location](https://img.shields.io/badge/Location-N%C3%BCrnberg-8b949e?style=flat-square)]()
+[![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20DE%20%7C%20TH-58a6ff?style=flat-square)]()
+[![GitHub](https://img.shields.io/badge/GitHub-TVATDCI-238636?style=flat-square&logo=github)](https://github.com/TVATDCI)
+
+---
+
+## ─── Profile Configuration ───
 
 ```yaml
+# ─────────────────────────────────────
+# USER CONFIGURATION
+# ─────────────────────────────────────
+
 name: Tuanthong Vaidyanond
 languages: [EN, DE, ภาษาไทย]
 location: Nürnberg, Germany
@@ -39,89 +63,96 @@ hobbies:
   - Writing
 
 life_motto: Slow it down and see what happens!
+
+# ─────────────────────────────────────
 ```
 
 ---
 
-## Table of Contents
-
-- [📋 Table of Contents](#-table-of-contents)
-- [ Skills](#-skills)
-- [ Projects](#-projects)
-- [ GitHub Stats](#-github-stats)
-- [ Contacts](#contacts)
-
----
-
-$$
-{\color{red}🛠\space \space \color{lightgreen}My \space Tech \space Stack \space \space \color{red}🛠}
-$$
+## ─── Tech Stack ───
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
 <code><img height="40" src="https://static.cdnlogo.com/logos/t/34/tailwind-css.svg" alt="Tailwind CSS"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" alt="Redux"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"></code>
-<code><img height="20" src="https://logo.svgcdn.com/l/codepen.png" alt="CodePen"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" alt="Redux"></code>
-<code><img height="10" src="https://axios-http.com/assets/logo.svg" alt="Axios"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"></code>
 
 ---
 
-### Projects
+## ─── Featured Projects ───
 
-**click github link below to find out more about me**
+### 01. Four Flavors Express
 
-[![GitHub](https://img.shields.io/badge/GitHub-TVATDCI-%23d83b7d?style=for-the-badge&logo=github&logoColor=red)](https://github.com/TVATDCI)
+```
+Type: Food Delivery App | Stack: MERN | Status: Complete
+```
 
-Here are some of my favorite projects:
+Berlin-based food delivery platform connecting restaurants with customers. Your go-to food delivery platform that brings the best flavors from your favorite restaurants straight to your doorstep.
 
-1. **[Four Flavors Express - Demo](https://drive.google.com/file/d/1b_ZirKRo9iAmrkRqNXs8_AtI6kHvCfd_/view)**  
-   _Description:_ Berlin, Germany food delivery app mock up by name _ Four Flavors Express, your go-to food delivery platform that brings the best flavors from your favorite restaurants straight to your doorstep. Whether you’re craving local street food, gourmet dishes, or international cuisine, we’ve got you covered.
-   \_Tech Stack:_ MERN stack  
-   _GitHub Link:_ [Repository Link](https://github.com/TVATDCI/Food-Delivery-Service-App?tab=readme-ov-file)
-
-2. **[Nature](https://github.com/TVATDCI/nature)**  
-   _Description:_ A fully responsive landing page project I built during my early days of learning frontend development — originally coded in April 2024 during my journey through the Advanced CSS & Sass course  
-   _Tech Stack:_ HTML, CSS, SASS  
-   _GitHub Link:_ [Repository Link](https://github.com/TVATDCI/nature)
-
-3. **[Star Wars-themed CRUD API ](https://github.com/TVATDCI/Star-Wars-Character-Data-API)**  
-   _Description:_ "This project is a Star Wars-themed CRUD API exercise designed to help developers practice building RESTful endpoints, applying validation and error handling, and interacting with a MongoDB database using Mongoose. It serves as a fun and educational way to reinforce backend development skills in a structured, real-world scenario.".  
-   _Tech Stack:_ MERN Stack  
-   _GitHub Link:_ [Repository Link](https://github.com/TVATDCI/Star-Wars-Character-Data-API)
+[Demo](https://drive.google.com/file/d/1b_ZirKRo9iAmrkRqNXs8_AtI6kHvCfd_/view) · [Repository](https://github.com/TVATDCI/Food-Delivery-Service-App)
 
 ---
 
-### GitHub Stats
+### 02. Nature Landing Page
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TNTHNGVDYNND&theme=dark" alt="GitHub Streak" />
+```
+Type: Responsive Website | Stack: HTML, CSS, SASS | Status: Complete
+```
+
+A fully responsive landing page project built during early days of learning frontend development — originally coded in April 2024 during the Advanced CSS & Sass course journey.
+
+[Repository](https://github.com/TVATDCI/nature)
+
+---
+
+### 03. Star Wars Character API
+
+```
+Type: CRUD API | Stack: MERN | Status: Complete
+```
+
+A Star Wars-themed CRUD API exercise designed to help developers practice building RESTful endpoints, applying validation and error handling, and interacting with a MongoDB database using Mongoose.
+
+[Repository](https://github.com/TVATDCI/Star-Wars-Character-Data-API)
+
+---
+
+## ─── GitHub Activity ───
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TNTHNGVDYNND&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=TNTHNGVDYNND&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTHNGVDYNND&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
-![Tuanthong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNTHNGVDYNND&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTHNGVDYNND&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## ─── Connect ───
+
+Open for internship and full-time opportunities. If you're interested in working together, feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8b949e?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8b949e?style=flat-square&logo=firefox)](https://dropdeaddev-1.onrender.com/)
+[![Email](https://img.shields.io/badge/-Email-8b949e?style=flat-square&logo=gmail)](mailto:tuanthong.vaidyanond@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-8b949e?style=flat-square&logo=github)](https://github.com/TVATDCI)
 
 ---
 
-### Contacts
-
-Feel free to reach out to me on any of the platforms below:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://dropdeaddev-1.onrender.com/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:tuanthong.vaidyanond@gmail.com)
-
----
+```
+$ echo "Thanks for visiting!"
+> 🖖 Live long and prosper
+```
 
 <p align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TNTHNGVDYNND&color=blue)</p>
-
-Thank you for visiting my profile! 😊
+![Visitor Count](https://komarev.com/ghpvc/?username=TNTHNGVDYNND&color=238636&style=flat-square)</p>
