@@ -18,10 +18,9 @@
 [![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20DE%20%7C%20TH-58a6ff?style=flat-square)]()
 [![GitHub](https://img.shields.io/badge/GitHub-TVATDCI-238636?style=flat-square&logo=github)](https://github.com/TVATDCI)
 
-## ─── Profile Configuration ───
+---
 
-<details>
-<summary>📋 View Profile Configuration</summary>
+## ─── Profile Configuration ───
 
 ```yaml
 # ─────────────────────────────────────
@@ -68,7 +67,7 @@ life_motto: Slow it down and see what happens!
 # ─────────────────────────────────────
 ```
 
-</details>
+---
 
 ## ─── Tech Stack ───
 
@@ -86,31 +85,45 @@ life_motto: Slow it down and see what happens!
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"></code>
 
+---
+
 ## ─── Featured Projects ───
 
 ### 01. Four Flavors Express
 
-*Type: Food Delivery App | Stack: MERN | Status: Complete*
+```
+Type: Food Delivery App | Stack: MERN | Status: Complete
+```
 
 Berlin-based food delivery platform connecting restaurants with customers. Your go-to food delivery platform that brings the best flavors from your favorite restaurants straight to your doorstep.
 
 [Demo](https://drive.google.com/file/d/1b_ZirKRo9iAmrkRqNXs8_AtI6kHvCfd_/view) · [Repository](https://github.com/TVATDCI/Food-Delivery-Service-App)
 
+---
+
 ### 02. Nature Landing Page
 
-*Type: Responsive Website | Stack: HTML, CSS, SASS | Status: Complete*
+```
+Type: Responsive Website | Stack: HTML, CSS, SASS | Status: Complete
+```
 
 A fully responsive landing page project built during early days of learning frontend development — originally coded in April 2024 during the Advanced CSS & Sass course journey.
 
 [Repository](https://github.com/TVATDCI/nature)
 
+---
+
 ### 03. Star Wars Character API
 
-*Type: CRUD API | Stack: MERN | Status: Complete*
+```
+Type: CRUD API | Stack: MERN | Status: Complete
+```
 
 A Star Wars-themed CRUD API exercise designed to help developers practice building RESTful endpoints, applying validation and error handling, and interacting with a MongoDB database using Mongoose.
 
 [Repository](https://github.com/TVATDCI/Star-Wars-Character-Data-API)
+
+---
 
 ## ─── GitHub Activity ───
 
@@ -122,6 +135,8 @@ A Star Wars-themed CRUD API exercise designed to help developers practice buildi
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
+---
+
 ## ─── Connect ───
 
 Open for internship and full-time opportunities. If you're interested in working together, feel free to reach out!
@@ -130,6 +145,8 @@ Open for internship and full-time opportunities. If you're interested in working
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8b949e?style=flat-square&logo=firefox)](https://dropdeaddev-1.onrender.com/)
 [![Email](https://img.shields.io/badge/-Email-8b949e?style=flat-square&logo=gmail)](mailto:tuanthong.vaidyanond@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-8b949e?style=flat-square&logo=github)](https://github.com/TVATDCI)
+
+---
 
 ```
 $ echo "Thanks for visiting!"
