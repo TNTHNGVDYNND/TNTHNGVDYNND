@@ -21,11 +21,11 @@
 ## ─── Profile Configuration ───
 
 <details>
-<summary>📋 View Profile Configuration</summary>
+<summary>📋 View Profile </summary>
 
 ```yaml
 # ─────────────────────────────────────
-# USER CONFIGURATION
+# USER PROFILE
 # ─────────────────────────────────────
 
 name: Tuanthong Vaidyanond
