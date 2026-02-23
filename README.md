@@ -6,9 +6,9 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║     TUANTHONG VAIDYANOND                                        ║
-║     Full-Stack Developer                                        ║
-║     Nürnberg, Germany                                           ║
+║     :::: TUANTHONG VAIDYANOND ::::                               ║
+║     :::: Full-Stack Developer ::::                               ║
+║     :::: Nürnberg, Germany    ::::                               ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -21,11 +21,11 @@
 ## ─── Profile Configuration ───
 
 <details>
-<summary>📋 View Profile </summary>
+<summary> :: ABOUT ME :: </summary>
 
 ```yaml
 # ─────────────────────────────────────
-# USER PROFILE
+# ABOUT ME
 # ─────────────────────────────────────
 
 name: Tuanthong Vaidyanond
@@ -102,7 +102,7 @@ _Type: Responsive Website | Stack: HTML, CSS, SASS | Status: Complete_
 
 A fully responsive landing page project built during early days of learning frontend development — originally coded in April 2024 during the Advanced CSS & Sass course journey.
 
-[Repository](https://github.com/TVATDCI/nature)
+[Demo](https://tvatdci.github.io/nature/) · [Repository](https://github.com/TVATDCI/nature)
 
 ### 03. Star Wars Character API
 
@@ -110,7 +110,17 @@ _Type: CRUD API | Stack: MERN | Status: Complete_
 
 A Star Wars-themed CRUD API exercise designed to help developers practice building RESTful endpoints, applying validation and error handling, and interacting with a MongoDB database using Mongoose.
 
-[Repository](https://github.com/TVATDCI/Star-Wars-Character-Data-API)
+[Demo](https://star-wars-character-data-api.vercel.app/) · [Repository](https://github.com/TVATDCI/Star-Wars-Character-Data-API)
+
+### 0$.Project Feedback System API
+
+_Type: Code Base Development | Stack: MERN | Status: In Progress_
+
+Updated: V4.1 focuses on scalability improvements (pagination), abuse prevention (feedback limits), UX enhancements (dashboard statistics), and codebase hygiene (bug fixes and cleanup). This version builds on the complete V4 full-stack foundation.
+
+[Repository](https://github.com/TVATDCI/feedback-system)
+
+### Updating soon!
 
 ## ─── GitHub Activity ───
 
