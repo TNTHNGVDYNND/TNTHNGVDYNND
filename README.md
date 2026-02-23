@@ -18,16 +18,12 @@
 [![Languages](https://img.shields.io/badge/Languages-EN%20%7C%20DE%20%7C%20TH-58a6ff?style=flat-square)]()
 [![GitHub](https://img.shields.io/badge/GitHub-TVATDCI-238636?style=flat-square&logo=github)](https://github.com/TVATDCI)
 
-## ─── Profile Configuration ───
+## ─── Profile ───
 
 <details>
 <summary> :: ABOUT ME :: </summary>
 
 ```yaml
-# ─────────────────────────────────────
-# ABOUT ME
-# ─────────────────────────────────────
-
 name: Tuanthong Vaidyanond
 languages: [EN, DE, ภาษาไทย]
 location: Nürnberg, Germany
@@ -112,15 +108,30 @@ A Star Wars-themed CRUD API exercise designed to help developers practice buildi
 
 [Demo](https://star-wars-character-data-api.vercel.app/) · [Repository](https://github.com/TVATDCI/Star-Wars-Character-Data-API)
 
-### 0$.Project Feedback System API
+### 04. Star Wars Character API
+
+_Type: CRUD API | Stack: MERN | Status: Complete_
+
+A full-stack authentication project demonstrating secure user login and registration using email and password, JWT, and HTTP-only cookies. It features a React + Vite frontend, and an Express + MongoDB backend, structured for clarity and deployment-ready.
+
+[Demo](https://signup-login-render.onrender.com/) · [Repository](https://github.com/TVATDCI/signup-login-render)
+
+### 05.Project Feedback System API
 
 _Type: Code Base Development | Stack: MERN | Status: In Progress_
 
-Updated: V4.1 focuses on scalability improvements (pagination), abuse prevention (feedback limits), UX enhancements (dashboard statistics), and codebase hygiene (bug fixes and cleanup). This version builds on the complete V4 full-stack foundation.
+Updated: V4.1 focuses on scalability improvements (pagination), abuse prevention (feedback limits), UX enhancements (dashboard statistics), and codebase hygiene (bug fixes and cleanup). This version builds on the complete V4 full-stack foundation. Now The development continued on from V4.1
+
+**code base review**
+
+- version-1 [Repository](https://github.com/TVATDCI/feedback-system/tree/V1)
+- version-2 [Repository](https://github.com/TVATDCI/feedback-system/tree/V2)
+- version-3 [Repository](https://github.com/TVATDCI/feedback-system/tree/V3)
+- version-4 [Repository](https://github.com/TVATDCI/feedback-system/tree/V4)
 
 [Repository](https://github.com/TVATDCI/feedback-system)
 
-### Updating soon!
+### TBC!
 
 ## ─── GitHub Activity ───
 
@@ -134,7 +145,7 @@ Updated: V4.1 focuses on scalability improvements (pagination), abuse prevention
 
 ## ─── Connect ───
 
-Open for internship and full-time opportunities. If you're interested in working together, feel free to reach out!
+Willing to learn - Open for internship and full-time opportunities. If you're interested in working together, feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-8b949e?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8b949e?style=flat-square&logo=firefox)](https://dropdeaddev-1.onrender.com/)
