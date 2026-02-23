@@ -90,15 +90,15 @@ life_motto: Slow it down and see what happens!
 
 ### 01. Four Flavors Express
 
-*Type: Food Delivery App | Stack: MERN | Status: Complete*
+_Type: Food Delivery App | Stack: MERN | Status: Complete_
 
 Berlin-based food delivery platform connecting restaurants with customers. Your go-to food delivery platform that brings the best flavors from your favorite restaurants straight to your doorstep.
 
-[Demo](https://drive.google.com/file/d/1b_ZirKRo9iAmrkRqNXs8_AtI6kHvCfd_/view) · [Repository](https://github.com/TVATDCI/Food-Delivery-Service-App)
+[Demo](https://fourflavoursexpress.onrender.com/) · [Repository](https://github.com/TVATDCI/Food-Delivery-Service-App)
 
 ### 02. Nature Landing Page
 
-*Type: Responsive Website | Stack: HTML, CSS, SASS | Status: Complete*
+_Type: Responsive Website | Stack: HTML, CSS, SASS | Status: Complete_
 
 A fully responsive landing page project built during early days of learning frontend development — originally coded in April 2024 during the Advanced CSS & Sass course journey.
 
@@ -106,7 +106,7 @@ A fully responsive landing page project built during early days of learning fron
 
 ### 03. Star Wars Character API
 
-*Type: CRUD API | Stack: MERN | Status: Complete*
+_Type: CRUD API | Stack: MERN | Status: Complete_
 
 A Star Wars-themed CRUD API exercise designed to help developers practice building RESTful endpoints, applying validation and error handling, and interacting with a MongoDB database using Mongoose.
 
