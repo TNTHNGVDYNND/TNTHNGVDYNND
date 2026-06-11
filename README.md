@@ -88,9 +88,9 @@ life_motto: Slow it down and see what happens!
 
 _Type: Food Delivery App | Stack: MERN | Status: Complete_
 
-Berlin-based food delivery platform connecting restaurants with customers. Your go-to food delivery platform that brings the best flavors from your favorite restaurants straight to your doorstep.
+A full-stack campaign management and promotions analytics platform built with Next.js, MongoDB, and Three.js.
 
-[Demo](https://fourflavoursexpress.onrender.com/) · [Repository](https://github.com/TVATDCI/Food-Delivery-Service-App)
+[Demo](https://digital-dashboard-pi.vercel.app/) · [Repository](https://github.com/TNTHNGVDYNND/digital-dashboard)
 
 ### 02. Nature Landing Page
 
@@ -108,11 +108,11 @@ A Star Wars-themed CRUD API exercise designed to help developers practice buildi
 
 [Demo](https://star-wars-character-data-api.vercel.app/) · [Repository](https://github.com/TVATDCI/Star-Wars-Character-Data-API)
 
-### 04. Star Wars Character API
+### 04. Signup-Login-Render
 
 _Type: CRUD API | Stack: MERN | Status: Complete_
 
-A full-stack authentication project demonstrating secure user login and registration using email and password, JWT, and HTTP-only cookies. It features a React + Vite frontend, and an Express + MongoDB backend, structured for clarity and deployment-ready.
+A full-stack authentication project demonstrating secure user login and registration using email and password, JWT, and HTTP-only cookies. It features a React + Vite frontend, and an Express + MongoDB backend, structured for clarity and deployment-ready via [Render.com](https://signup-login-render.onrender.com/)
 
 [Demo](https://signup-login-render.onrender.com/) · [Repository](https://github.com/TVATDCI/signup-login-render)
 
